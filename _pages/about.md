@@ -18,11 +18,11 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Education
 ======
-* (2021-Now)Ph.D. Candidate in Integrated Circuit and System Design<br> 
-<font size=3>Fudan University</font>
+* (2021-Now) Ph.D. Candidate in Integrated Circuit and System Design<br> 
+  <font size=3>Fudan University</font>
 
-* (2017-2021)Bachelor in Integrated Circuit Design and Integrated System<br> 
-<font size=3>University of Electronic Science and Technology of China (UESTC)</font>
+* (2017-2021) Bachelor in Integrated Circuit Design and Integrated System<br> 
+  <font size=3>University of Electronic Science and Technology of China (UESTC)</font>
 
 <!-- Site-wide configuration
 ------
