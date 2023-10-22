@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Ruiyao Pu"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "https://maps.app.goo.gl/T41hqW4qFVApU83Y9"
+  bio              : "Unity of knowledge and action"
+  location         : #"https://maps.app.goo.gl/T41hqW4qFVApU83Y9"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  email            :  "pury21@m.fudan.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :  
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/RuiyaoPU"
+  github           : #"https://github.com/RuiyaoPU"
   google_plus      :
   keybase          :
   instagram        :
