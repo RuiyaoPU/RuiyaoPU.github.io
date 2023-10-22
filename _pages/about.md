@@ -18,9 +18,9 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Education
 ======
-* Ph.D. Candidate in Integrated Circuit and System Design 2021-Now 
+* Ph.D. Candidate in Integrated Circuit and System Design 2021-Now<br> 
 Fudan University
-* Bachelor in Integrated Circuit Design and Integrated System 2017-2021 
+* Bachelor in Integrated Circuit Design and Integrated System 2017-2021<br> 
 University of Electronic Science and Technology of China (UESTC)
 
 <!-- Site-wide configuration
