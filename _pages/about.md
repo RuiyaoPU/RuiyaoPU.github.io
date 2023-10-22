@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ruiyao Pu is currently a Ph.D. student of State Key Lab of Integrated Chips and Systems at School of Microelectronics, Fudan University, following Prof.Fan Yang.His research interests lie in the fields of hardware emulation (Functional verification of IC). From 2022.3 to now, he is in charge of the projects related to the design of hardware emulators based on Boolean processors and the accompanying compiler in UniVista Industrial Software Group, Shanghai, China. He received a bachelor's degree in Integrated Circuit Design and Integrated System from University of Electronic Science and Technology of China.
+Ruiyao Pu is currently a Ph.D. student of State Key Lab of Integrated Chips and Systems at School of Microelectronics, Fudan University, following Prof.Fan Yang.His research interests lie in the fields of hardware emulation (Functional verification of IC). From 2022.3 to now, he is in charge of the projects related to the design of hardware emulators based on Boolean processors and the accompanying compiler in UniVista Industrial Software Group, Shanghai, China. He received a bachelor's degree in Integrated Circuit Design and Integrated System from University of Electronic Science and Technology of China (UESTC).
 
 A data-driven personal website
 ======
