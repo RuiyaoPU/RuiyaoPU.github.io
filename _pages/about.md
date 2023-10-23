@@ -19,15 +19,15 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 Education
 ======
 * (2021-Now) Ph.D. Candidate in Integrated Circuit and System Design<br> 
-  <font size=3>Fudan University</font>
+  *Fudan University*
 
 * (2017-2021) Bachelor in Integrated Circuit Design and Integrated System<br> 
-  <font size=3>University of Electronic Science and Technology of China (UESTC)</font>
+  *University of Electronic Science and Technology of China (UESTC)*
 
 Publications
 ======
 * Sphinx: A Hybrid Boolean Processor-FPGA Hardware Emulation System<br> 
-  __Ruiyao Pu__\*, Yiwei Sun\*, Pei-Hsin Ho, Fan Yang, Li Shang, Xuan Zeng (\* represents equal contribution)<br> 
+  __Ruiyao Pu__\*, Yiwei Sun\*, Pei-Hsin Ho, Fan Yang, Li Shang, Xuan Zeng (__\* represents equal contribution__)<br> 
   *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*,2023
 
 * An Automated Compiler for RISC-V Based DNN Accelerator<br> 
