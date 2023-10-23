@@ -31,8 +31,8 @@ Publications
   *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*,2023
 
 * An Automated Compiler for RISC-V Based DNN Accelerator<br> 
-  __Ruiyao Pu__^\*^, Yiwei Sun^\*^, Pei-Hsin Ho, Fan Yang, Li Shang, Xuan Zeng<br> 
-  *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*,2023
+  Zheng Wu, Wuzhen Xie, Xiaoling Yi, Haotao Yang, __Ruiyao Pu__, Xiankui Xiong, Haidong Yao, Chixiao Chen, Jun Tao, Fan Yang<br> 
+  *IEEE International Symposium on Circuits and Systems (ISCAS)*,2022
 
 
 <!-- Site-wide configuration
