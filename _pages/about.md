@@ -26,11 +26,11 @@ Education
 
 Publications
 ======
-* Sphinx: A Hybrid Boolean Processor-FPGA Hardware Emulation System<br> 
+* "Sphinx: A Hybrid Boolean Processor-FPGA Hardware Emulation System"<br> 
   __Ruiyao Pu__\*, Yiwei Sun\*, Pei-Hsin Ho, Fan Yang, Li Shang, Xuan Zeng (__\* represents equal contribution__)<br> 
   *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*,2023
 
-* An Automated Compiler for RISC-V Based DNN Accelerator<br> 
+* "An Automated Compiler for RISC-V Based DNN Accelerator"<br> 
   Zheng Wu, Wuzhen Xie, Xiaoling Yi, Haitao Yang, __Ruiyao Pu__, Xiankui Xiong, Haidong Yao, Chixiao Chen, Jun Tao, Fan Yang<br> 
   *IEEE International Symposium on Circuits and Systems (ISCAS)*,2022
 
