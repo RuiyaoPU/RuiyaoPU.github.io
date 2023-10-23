@@ -28,7 +28,7 @@ Publications
 ======
 * Sphinx: A Hybrid Boolean Processor-FPGA Hardware Emulation System<br> 
   __Ruiyao Pu__, Yiwei Sun, Pei-Hsin Ho, Fan Yang, Li Shang, Xuan Zeng<br> 
-  In *Proceedings of the 42nd IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*, 2023
+  In *Proceedings of the 42nd IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*,2023
 
 
 <!-- Site-wide configuration
