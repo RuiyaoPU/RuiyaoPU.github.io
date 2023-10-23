@@ -27,10 +27,10 @@ Education
 Publications
 ======
 * Sphinx: A Hybrid Boolean Processor-FPGA Hardware Emulation System<br> 
-  __Ruiyao Pu__, Yiwei Sun, Pei-Hsin Ho, Fan Yang, Li Shang, Xuan Zeng<br> 
+  __Ruiyao Pu__</sup>\*</sup>, Yiwei Sun</sup>\*</sup>, Pei-Hsin Ho, Fan Yang, Li Shang, Xuan Zeng<br> 
   *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*,2023
 
-* Sphinx: A Hybrid Boolean Processor-FPGA Hardware Emulation System<br> 
+* An Automated Compiler for RISC-V Based DNN Accelerator<br> 
   __Ruiyao Pu__^\*^, Yiwei Sun^\*^, Pei-Hsin Ho, Fan Yang, Li Shang, Xuan Zeng<br> 
   *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*,2023
 
