@@ -26,7 +26,7 @@ Education
 
 Publications
 ======
-* ["Sphinx: A Hybrid Boolean Processor-FPGA Hardware 11 System"](../pdfs/ICCAD2023.pdf)<br> 
+* ["Sphinx: A Hybrid Boolean Processor-FPGA Hardware Emulation System"](../pdfs/ICCAD2023.pdf)<br> 
   __Ruiyao Pu__\*, Yiwei Sun\*, Pei-Hsin Ho, Fan Yang, Li Shang, Xuan Zeng (\* represents equal contribution)<br> 
   *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*,2023
 
