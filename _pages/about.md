@@ -31,8 +31,7 @@ Publications
   *IEEE/ACM International Conference on Computer-Aided Design (ICCAD)*,2023
 
 <!-- * "An Automated Compiler for RISC-V Based DNN Accelerator"<br> (../pdfs/your-paper.pdf) -->
-[An Automated Compiler for RISC-V Based DNN Accelerator](../pdfs/your-paper.pdf)<br>
-* [An Automated Compiler for RISC-V Based DNN Accelerator](../pdfs/your-paper.pdf)<br>
+* "An Automated Compiler for RISC-V Based DNN Accelerator"(../pdfs/An_Automated_Compiler_for_RISC-V_Based_DNN_Accelerator.pdf)<br>
   Zheng Wu, Wuzhen Xie, Xiaoling Yi, Haitao Yang, __Ruiyao Pu__, Xiankui Xiong, Haidong Yao, Chixiao Chen, Jun Tao, Fan Yang<br> 
   *IEEE International Symposium on Circuits and Systems (ISCAS)*,2022
 
