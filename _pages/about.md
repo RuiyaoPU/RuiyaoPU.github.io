@@ -36,7 +36,9 @@ Publications
 
 Contest Experience
 ======
-* 1st Prize, Shanghai Integrated Circuit EDA Development Application Technical Skills Competition   2021
+* 1st Prize (No.2 in race 9), Integrated Circuit EDA Elite Challenge Competition   2023
+
+* 1st Prize (No.1 in student group), Shanghai Integrated Circuit EDA Development Application Technical Skills Competition   2021
 
 * 3rd Prize, National College Students Integrated Circuit Innovation and Entrepreneurship Competition   2020
 
